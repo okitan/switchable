@@ -1,0 +1,3 @@
+module Switchable
+  # Your code goes here...
+end
